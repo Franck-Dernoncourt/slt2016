@@ -1,4 +1,4 @@
-Data splits for the paper: Franck Dernoncourt\*, Ji Young Lee\*, "[TODO](http://arxiv.org/abs/1609.TODO)". 2016 IEEE Workshop on Spoken Language Technology. (\* indicates equal contribution)
+Data splits for the paper: Franck Dernoncourt\*, Ji Young Lee\*, "[Optimizing Neural Network Hyperparameters with Gaussian Processes for Dialog Act Classification](https://arxiv.org/abs/1609.08703)". 2016 IEEE Workshop on Spoken Language Technology. (\* indicates equal contribution)
 
 
 # Train/validation/test split
